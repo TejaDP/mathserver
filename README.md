@@ -29,6 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
+```
 views.py
 from django.shortcuts import render
 def physics(request):
@@ -102,6 +103,7 @@ templates
     </div>
 </body>
 </html>
+```
 
 # SERVER SIDE PROCESSING:
 # HOMEPAGE:
